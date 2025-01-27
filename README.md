@@ -1,7 +1,9 @@
 Please see use the following link to see your individualized assignment 1.
 https://lvm.ad.net172.ca/prog1700/assign1.php
 
-You cannot use your lapotop to access this resource.
+(or http://172.16.136.188/prog1700/assign1.php)
+
+You cannot use your lapotop or WiFi to access this resource.
 As this server is behind a firewall, you must be on campus and use a lab PC to use this link.
 
 Once you enter your valid NSCC student ID and click "Generate Activity," you would receive your assignment.
